@@ -4,7 +4,10 @@
 
 .container {
   display: flex;
-  flex-direction: column;
-  width: 180px;
-  position: absolute;
+  /*flex-direction: column-reverse;
+ 
+  flex-direction: column; 
+  height: 350px; */
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
