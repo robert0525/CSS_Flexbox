@@ -35,3 +35,8 @@
 .item {
   flex-grow: 1;
 }
+
+
+.item-3 {
+  flex-grow: 2;
+}
