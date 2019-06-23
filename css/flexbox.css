@@ -11,7 +11,12 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
-
-.item-1 {
+/*
+.item-2 {
   margin-right: auto;
+}
+*/
+
+.item-6 {
+  order: -1;
 }
