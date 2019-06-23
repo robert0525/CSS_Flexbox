@@ -11,3 +11,7 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+.item-1 {
+  margin-right: auto;
+}
